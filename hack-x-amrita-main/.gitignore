@@ -1,0 +1,11 @@
+node_modules/
+venv/
+.env
+dist/
+build/
+generated_videos/
+outputs/
+*.mp4
+*.temp
+archive/
+dataset/
